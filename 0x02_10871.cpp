@@ -3,7 +3,7 @@ using namespace std;
 
 //cin.tie(0);
 //cin.tie(nullptr);
-/*cin¸í·ÉÀ» ¼öÇàÇÏ±â Àü¿¡ cout¹öÆÛ¸¦ ºñ¿ìÁö ¾Êµµ·Ï */
+/*cinëª…ë ¹ì„ ìˆ˜í–‰í•˜ê¸° ì „ì— coutë²„í¼ë¥¼ ë¹„ìš°ì§€ ì•Šë„ë¡ */
 
 int main() {
 	int N, num;
